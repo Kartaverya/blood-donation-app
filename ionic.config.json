@@ -1,0 +1,8 @@
+{
+  "name": "Blood Donation App",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "7dfcfd75"
+}
