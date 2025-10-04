@@ -18,10 +18,10 @@
 This app simplifies blood donation processes, ensures timely availability of donors, and provides a reliable platform for managing donation requests efficiently.
 
 ## Authors
-This application was developed as a collaborative effort by:
+This project was collaboratively developed by the following contributors:
 
 - **Harsha Gundi** ([https://github.com/Kartaverya](https://github.com/Kartaverya))
-- **[Shaik Abu Bakr]** ([https://github.com/[Abubakr-133]](https://github.com/[Abubakr-133))
+- **Shaik Abu Bakr** ([https://github.com/Abubakr-133](https://github.com/Abubakr-133))
 
 
 
